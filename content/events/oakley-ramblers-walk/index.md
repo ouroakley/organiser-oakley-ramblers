@@ -2,6 +2,8 @@
 title: Oakley Ramblers Walk
 date: 2025-10-08
 poster: https://oakleyramblers.org/next-walk/
+eventDates:
+  - start: 2025-10-08T10:00:00+01:00
 organisers:
   - oakley-ramblers
 ---
