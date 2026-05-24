@@ -1,10 +1,18 @@
 ---
+draft: false
 title: Oakley Ramblers Walk
-date: 2025-10-08
+date: 2026-04-26
 poster: https://oakleyramblers.org/next-walk/
 eventDates:
   - start: 2025-10-08T10:00:00+01:00
+  - start: 2026-04-08T00:00:00
+    end: 2026-04-08T00:00:00
+  - start: 2026-04-26T00:00:00
+    end: 2026-04-26T00:00:00
+venues:
+  - tbc
 organisers:
   - oakley-ramblers
 ---
-This walk will be an 8-mile circular walk from Rooksdown to The Vyne, Sherborne St John and back. This is an easy walk with good paths, 1 field with 2 small horses, and a short section of road.  Care to be taken crossing the Tadley to Basingstoke road at the Ambulance Station and on the return.
+
+Check the [Oakley Ramblers website](https://oakleyramblers.org/) about a week before each walk for meeting point, route, and other details.
